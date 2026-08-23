@@ -14,7 +14,7 @@ A mobile-first static marketing site for Hanglinez Ghana: collapsible drying clo
 
 ## Asset note
 
-`public/assets/hanglinez-product-reference.jpg` and `hanglinez-wordmark-reference.jpg` are crops from the client-approved Facebook page screenshot. `facebook-profile-image.jpg` is the publicly exposed Facebook image downloaded during discovery. Replace the reference crops with original logo/product files when supplied; do not upscale them for print use.
+`public/assets/hanglinez-product-reference.jpg` and `hanglinez-wordmark-reference.jpg` are crops from the client-approved Facebook page screenshot. `facebook-profile-image.jpg` is the publicly exposed Facebook image downloaded during discovery. The supplied installation/product images are cleaned crops in `assets/hanglinez-gallery/` and are used in the hero and gallery. Replace reference crops with original logo/product files when supplied; do not upscale them for print use.
 
 ## Run locally
 
